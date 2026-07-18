@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
+- BCA Graduate
+- Ex-Military Cyber Security & Information Assurance
+- Ex-Military Database Operations & Maintenance
+- Current Focus: CV (Computer Vision)
+---
+
+### 📬 Contact
+- Discord: hj.hive
 <!--
 **Aiuces/Aiuces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
