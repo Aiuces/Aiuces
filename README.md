@@ -5,7 +5,7 @@
 - 🛡️ Ex-Military Cyber Security & InfoSec
 - 🗄️ Ex-Military Database Operations & Maintenance
 - 🤖 Current Focus: Computer Vision
----
+
 
 ## 📬 Contact
 ![Discord](https://img.shields.io/badge/Discord-hj.hive-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
