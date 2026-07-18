@@ -1,6 +1,7 @@
 # Hi there 👋
 
-- BCA Graduate
+- Majored in BCA
+- Majored in Applied Software Engineering
 - Ex-Military Cyber Security & Information Assurance
 - Ex-Military Database Operations & Maintenance
 - Current Focus: CV (Computer Vision)
