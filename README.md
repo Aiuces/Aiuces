@@ -1,11 +1,12 @@
 ## Hi there 👋
+Good day! I'm Hajin, a tech enthusiast from South Korea passionate about Software Engineering and Computer Vision.
 
+## Education & Experience
 - 🎓 BCA | India
 - 🎓 Applied Software Engineering | Republic of Korea
 - 🛡️ Ex-Military Cyber Security & InfoSec
 - 🗄️ Ex-Military Database Operations & Maintenance
 - 🤖 Current Focus: Computer Vision
-
 
 ## 📬 Contact
 ![Discord](https://img.shields.io/badge/Discord-hj.hive-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
