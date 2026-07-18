@@ -1,13 +1,13 @@
-# Hi there 👋
+## Hi there 👋
 
-- Majored in BCA
-- Majored in Applied Software Engineering
-- Ex-Military Cyber Security & Information Assurance
-- Ex-Military Database Operations & Maintenance
-- Current Focus: CV (Computer Vision)
+- 🎓 BCA | India
+- 🎓 Applied Software Engineering | Republic of Korea
+- 🛡️ Ex-Military Cyber Security & InfoSec
+- 🗄️ Ex-Military Database Operations & Maintenance
+- 🤖 Current Focus: Computer Vision
 ---
 
-### 📬 Contact
+## 📬 Contact
 - Discord: hj.hive
 <!--
 **Aiuces/Aiuces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
