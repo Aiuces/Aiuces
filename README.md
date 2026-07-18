@@ -8,7 +8,7 @@
 ---
 
 ## 📬 Contact
-- Discord: hj.hive
+![Discord](https://img.shields.io/badge/Discord-hj.hive-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
 <!--
 **Aiuces/Aiuces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
