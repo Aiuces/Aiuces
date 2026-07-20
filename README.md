@@ -4,8 +4,8 @@ Good day! I'm Hajin, a tech enthusiast from South Korea passionate about Softwar
 ## Education & Experience
 - 🎓 BCA | India
 - 🎓 Applied Software Engineering | Republic of Korea
-- 🛡️ Ex-Military Cyber Security & InfoSec
-- 🗄️ Ex-Military Server and Database Operations & Maintenance
+- 🛡️ Ex-Military Cyber Security & InfoSec | ROKAF
+- 🗄️ Ex-Military C4I Server and C4I Database Operations & Maintenance | ROKAF
 - 🤖 Current Focus: Computer Vision
 
 ## 📬 Contact
