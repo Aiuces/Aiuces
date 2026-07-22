@@ -6,7 +6,7 @@ Good day! I'm Hajin, a tech enthusiast from South Korea passionate about Softwar
 - 🎓 Applied Software Engineering | Republic of Korea
 - 🛡️ Ex-Military Cyber Security & InfoSec | ROKAF
 - 🗄️ Ex-Military C4I Server and C4I Database Operations & Maintenance | ROKAF
-- 🤖 Current Focus: Computer Vision, Mocap, Live Streaming Engineering
+- 🔥 Computer Vision, Mocap, Live Streaming Engineering
 
 ## 📬 Contact
 ![Discord](https://img.shields.io/badge/Discord-hj.hive-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
